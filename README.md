@@ -49,7 +49,7 @@ Nikto was employed to scan web servers for vulnerabilities. It identifies outdat
 - Browser-based attacks using BeEF highlight the risks of unprotected or outdated browsers.
 
 ## Conclusion
-The project emphasizes the importance of understanding cybersecurity tools from an attacker’s perspective. The ease of conducting network reconnaissance, phishing, and brute-force attacks underscores the need for robust security measures in both individual and enterprise environments. Implementing preventive measures, security patches, and user awareness are critical to safeguarding digital infrastructures.
+The project emphasizes the importance of understanding cybersecurity tools from an attacker’s perspective. The ease of conducting network reconnaissance, phishing, and brute-force attacks underscores the need for robust security measures in both individual and enterprise environments. Implementing preventive measures, security patches, and user awareness are critical to safeguarding digital infrastructures..
 
 ## License
 This project is for educational purposes only. Misuse of the provided information can lead to legal consequences. Use responsibly.
